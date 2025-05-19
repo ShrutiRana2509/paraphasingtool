@@ -58,7 +58,7 @@ LANGUAGE_MAP = {
 }
 
 app = Flask(__name__)
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "YOUR_API_KEY"
 
 def detect_language(text):
     try:
